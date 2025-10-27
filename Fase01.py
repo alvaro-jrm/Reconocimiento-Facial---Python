@@ -1,7 +1,7 @@
 import cv2
 import os
 import imutils
-
+#Prueba
 # Definir la identificacion de los rostros
 
 personName = 'Uvuwev'
